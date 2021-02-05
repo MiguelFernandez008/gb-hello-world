@@ -4,7 +4,7 @@
 # Build instructions 
 * Clone this repository
 * Create a make.bat file in project root folder
-* Paste this code replacing the elements in brackets suiting your own
+* Paste this code replacing the elements in brackets suiting your own, after that, execute make.bat
 ```
 REM Automatically generated from Makefile
 [Path to gbdk lcc] -Wa-l -Wl-m -Wl-j -o [rom name].gb [main c file].c
